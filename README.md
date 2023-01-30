@@ -3,7 +3,7 @@
 
 * Estou estudando JavaScript,HTML,CSS <br>
 * Objetivos 2023: Conseguir aplicar os conhecimentos estudados em projetos pessoais e profissionais <br>
-* Interesses: Games,Pixel Art<br>
+* Interesses: Games,Game Dev,Pixel Art<br>
 *
 
 ## Tecnologias e Habilidades
