@@ -20,7 +20,7 @@
  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
  <img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="skills logos"/> <br>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,mongodb,nextjs,firebase" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=react" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,express,flask,graphql,kotlin,linux,lua,pytorch,r,tailwind,tensorflow,vue" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=angular" alt="skills planning to learn logos">
   <br>
