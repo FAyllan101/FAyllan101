@@ -18,9 +18,9 @@
 ## 
 
  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
- <img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="skills logos"/> <br>
+ <img src="https://skillicons.dev/icons?i=git,github,html,css,javasctipt," alt="skills logos"/> <br>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=react,javascript," alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=angular,vue,ajax,gulp,pyhon,c#,flutter,react native,gulp,bootstrap,nodejs,esnext,webpack" alt="skills planning to learn logos">
   <br>
