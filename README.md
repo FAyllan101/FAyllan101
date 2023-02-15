@@ -1,6 +1,9 @@
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=700&size=35&duration=2300&pause=1700&color=7A00ABFE&center=true&vCenter=true&width=1000&height=120&lines=OL%C3%81%2C+SOU+AYLLAN+E+BEM+VINDO+AO+MEU+PERFIL+!!!" alt="Typing SVG" /></a>
+<img src="https://media.tenor.com/yDk9Osl_1kkAAAAM/alien-bttv.gif" alt="codding" img align="right"  />
 
 ---
+
 <div align= "center">
   
 **`Front-End Developer / Curioso / Criativo / Autodidata `**
